@@ -5,6 +5,6 @@
 * 이름 : 임성수
 * Email : tjdtn2323@gmail.com 
 * Github : https://github.com/limseongsu
+<img width="290" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://user-images.githubusercontent.com/79133729/129471674-f27a6474-3448-46d1-9764-b3f8fb65786e.png">
 
-![임성수 이력서 사진](https://user-images.githubusercontent.com/79133729/129471627-8c3476f6-db0a-4ee3-ba95-1510b0e6fc92.jpeg)
 
