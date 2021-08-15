@@ -7,8 +7,7 @@
 * Github : https://github.com/limseongsu
 <img width="300" height="300" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://user-images.githubusercontent.com/79133729/129471674-f27a6474-3448-46d1-9764-b3f8fb65786e.png">
 
-##학력
-
+## 학력
 *강릉고등학교
 - 이과 
 - 2016년 졸업
@@ -56,7 +55,7 @@
 - DataBase
 - Codeigniter
 
-## library with flutter
+# library with flutter
 - easy_splash_screen : 로딩화면 구현
 - getX : 상태관리
 - provider : 상태관리
@@ -73,8 +72,8 @@
 
 
 ## 프로젝트
-# teamproject : 웹 게임 개발 Front를 담당 (예정)
+### teamproject : 웹 게임 개발 Front를 담당 (예정)
 - 이름: 배틀판타지아 
 - 웹 2D 게임 
-# soloproject : 어 항 (playstore)
+### soloproject : 어 항 (playstore)
 - 공공API를 사용하여 현재 위치로부터 가까운 낚시터 정보를 가져와 주는 어플
