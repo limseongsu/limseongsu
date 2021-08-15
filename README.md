@@ -20,7 +20,7 @@
 - flutter 및 앱 개발과 웹 및 DBA, SERVER를 배움.
 - 2021 9.17졸업 (예정)
   
-##skills
+## skills
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
