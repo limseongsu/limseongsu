@@ -19,4 +19,24 @@
 - flutter 및 앱 개발과 웹 및 DBA, SERVER를 배움.
 - 2021 9.17졸업 (예정)
   
-## 사용가능기술
+## 사용기술스펙
+- Dart
+- Flutter
+- git
+- githb
+- markdown
+- html
+- css
+- javascript
+- jquery
+- java
+- MFC
+- PHP
+- MYSQL
+- shellscript
+- linux
+- Docker
+- DataBase
+- Codeigniter
+
+
