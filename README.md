@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-## 사용기술스펙
+## 사용기술
 - Dart
 - Flutter
 - git
