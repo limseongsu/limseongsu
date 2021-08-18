@@ -78,7 +78,7 @@
 - 웹 2D 게임 
 ### soloproject : 어 항 (playstore)
 # GooglePlayStore 출시
--https://play.google.com/store/apps/details?id=com.lss.fishingspot
+- https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - 공공API를 사용하여 현재 위치로부터 가까운 낚시터 정보를 가져와 주는 어플
 
 ![어항](https://user-images.githubusercontent.com/79133729/129472947-21e5b785-3b8b-4698-9888-53dadaa526ea.gif)
