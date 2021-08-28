@@ -20,6 +20,10 @@
 - flutter 및 앱 개발과 웹 및 DBA, SERVER를 배움.
 - 2021 9.17졸업 (예정)
   
+  
+ #Github
+ >[![Seongsu GitHub stats](https://github-readme-stats.vercel.app/api?username=limseongsu)](https://github.com/limseongsu/github-readme-stats)
+  
 ## skills
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
