@@ -41,7 +41,7 @@
 ## 프로젝트
 ### soloproject : 어 항 (playstore)
 # GooglePlayStore 출시
-- https://play.google.com/store/apps/details?id=com.lss.fishingspot
+#### https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - Location 관련 Permission 핸들링
 - 공공API를 사용하여 현재 위치로부터 가까운 낚시터 정보를 가져와 주는 어플
 ----------------------------------------------------------------------------------------------------------------------------
@@ -53,8 +53,8 @@
 - 코드 리펙토링 작업
 
 ## LifeForyou (애견 장례서비스)
-### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
-### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
+#### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
+#### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 - 메인 개발 Andorid, ios 출시 및 유지보수 
 - GetX를 통해 상태관리
 - Get Size 를 통해 디바이스별 사이즈 구현 
