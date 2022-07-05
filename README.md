@@ -65,7 +65,7 @@
 - Flutter 반응형 Web 구현
 
 ## Server 및 DB
-- AWS EC2 ubuntu 20:04 server 핸들링 및 GCP-Server 구현 경험
+- AWS EC2 ubuntu 20:04 server 핸들링 및 GCP-Server 핸들링 경험
 - Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 서버 구현 경험
 - MariaDB(mysql) 사용 겸험
 
