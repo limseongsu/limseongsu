@@ -39,7 +39,7 @@
 
 
 ## 프로젝트
-### soloproject : 어 항 (playstore)
+### soloproject : 어 항
 # GooglePlayStore 출시
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - Location 관련 Permission 핸들링
@@ -61,13 +61,14 @@
 - Firebase RealTimeBase 를 통해 라이브 1:1 채팅기능 구현
 - 로그인과 자동 로그인 기능 구현 (kakao, google, apple)
 - 회원가입 구현 
-- Clean Architecture 을 통해 Sorce code 의 관리를 용이하게 프로젝트 구성
+- Clean Architecture 구조를 통해 Sorce code 의 관리를 용이하게 프로젝트 구성
 - Google Map 및 Kakao Local Api 를 통해 원하는 기타 서비스 찾기 기능 구현
 - 현재 내 위치를 주소로 변환해 표시하는 기능 구현
 - Animation 효과를 통해 image 자동 변환 기능 구현
 - 예약하기 기능 구현까진 완료 적용 X 
 
 ## 기타 기술
+
 - Flutter 반응형 Web 구현
 
 ## Server 및 DB
