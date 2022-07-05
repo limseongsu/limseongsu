@@ -33,8 +33,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
    <img src="https://img.shields.io/badge/Notion-0000000?style=flat-square&logo=Git&logoColor=black"/>
   <img src="https://img.shields.io/badge/DBever-444444?style=flat-square&logo=Git&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Postman-555555?style=flat-square&logo=Git&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Slack-666666?style=flat-square&logo=Git&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Postman-555555?style=flat-square&logo=Git&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/Slack-666666?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
 
