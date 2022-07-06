@@ -69,9 +69,10 @@
 - 예약하기 기능 구현까진 완료 적용 X 
 - Get_Storage를 통한 LocalDataBase 
 
-## 기타 기술
+## 기타
 
 - Flutter 반응형 Web 구현
+- Notion을 통한 매일 일과표를 꾸준히 작성
 
 ## Server 및 DB
 - AWS EC2 ubuntu 20:04 server 핸들링 및 GCP-Server 핸들링 경험
