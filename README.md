@@ -56,7 +56,7 @@
 ## LifeForyou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
-- 메인 개발 Andorid, ios 출시 및 유지보수 
+### 메인 개발 Andorid, ios 출시 및 유지보수 
 - GetX를 통해 상태관리
 - Get Size 를 통해 디바이스별 사이즈 구현 
 - Firebase RealTimeBase 를 통해 라이브 1:1 채팅기능 구현
