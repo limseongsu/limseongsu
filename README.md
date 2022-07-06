@@ -39,7 +39,7 @@
 
 
 ## 프로젝트
-### soloproject : 어 항
+### SoloProject : 어 항
 # GooglePlayStore 출시
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - Location 관련 Permission 핸들링
