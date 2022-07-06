@@ -67,6 +67,7 @@
 - 현재 내 위치를 주소로 변환해 표시하는 기능 구현
 - Animation 효과를 통해 image 자동 변환 기능 구현
 - 예약하기 기능 구현까진 완료 적용 X 
+- Get_Storage를 통한 LocalDataBase 
 
 ## 기타 기술
 
