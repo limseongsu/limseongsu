@@ -48,7 +48,7 @@
 ## 회사 프로젝트 
 - 팀단위 Github 를 통한 형상관리
 ### ZZOIN 
-- BootPay를 통해 결제시스템 구현
+- BootPay를 통해 PG 통합 결제 시스템 구현
 - 로그인 시스템 구현 및 자동로그인 구현
 - Clean Architecture 구현
 - 코드 리펙토링 작업
