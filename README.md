@@ -45,15 +45,15 @@
 - Location 관련 Permission 핸들링
 - 공공API를 사용하여 현재 위치로부터 가까운 낚시터 정보를 가져와 주는 어플
 ----------------------------------------------------------------------------------------------------------------------------
-# 회사 프로젝트 
+## 회사 프로젝트 
 - 팀단위 Github 를 통한 형상관리
-## ZZOIN 
+### ZZOIN 
 - BootPay를 통해 PG 통합 결제 시스템 구현
 - 로그인 시스템 구현 및 자동로그인 구현
 - Clean Architecture 구현
 - 코드 리펙토링 작업
 
-## LifeForYou (애견 장례서비스)
+### LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 ### 메인 개발 Andorid, ios 출시 및 유지보수 
