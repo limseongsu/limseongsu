@@ -53,15 +53,16 @@
 - 팀단위 Github 를 통한 형상관리
 
 ## (주)쪼인
+### 프로젝트
 
-### ZZOIN 
+#### 1). ZZOIN 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
 - BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
 - MVVM 디자인패턴 적용으로 프로젝트 구성 
 -  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
 
-### LifeForYou (애견 장례서비스)
+#### 2). LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 #### 메인 개발 Andorid, ios 출시 및 유지보수 
@@ -80,7 +81,9 @@
 
 ## 아카이브코퍼이션
 
-### VukaPro
+### 프로젝트
+
+#### VukaPro
 - 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
 - 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
 - FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 
