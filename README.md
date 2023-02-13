@@ -46,15 +46,19 @@
 - 공공 API 를 사용하여 낚시터의 정보를 가져옴 
 - Permission Handler 를 통한 Permission 을 용이하게 관리
 - 즐겨찾기 기능과 LocalDataBase를 통하여 로그인 없이 즐겨찾기에 관한 데이터를 저장
-- 
+
 ----------------------------------------------------------------------------------------------------------------------------
 ## 회사 프로젝트 
 - 팀단위 Github 를 통한 형상관리
+
+## (주)쪼인
+
 ### ZZOIN 
-- BootPay를 통해 PG 통합 결제 시스템 구현
-- 로그인 시스템 구현 및 자동로그인 구현
-- Clean Architecture 구현
-- 코드 리펙토링 작업
+- 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
+-  자동로그인 기능 구현 (LocalDB사용)
+- BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
+- MVVM 디자인패턴 적용으로 프로젝트 구성 
+-  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
 
 ### LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
@@ -72,14 +76,29 @@
 - 예약하기 기능 구현까진 완료 적용 X 
 - Get_Storage를 통한 LocalDataBase 
 
+## 아카이브코퍼이션
+
+### VukaPro
+- 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
+- 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
+- FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 
+- 알림기능 개발 및 방해금지 시간 설정 등 기능 구현  
+- Flutter In App WebView 에서 결제 관련 된 이슈 처리 (url_scheme를 통한 앱 launcher기능)
+   1. Android 에서 url_launcher library 를 사용하기 위한  Intent(native) 작업  
+   2. 결제 예외 처리 기능 적용 
+- 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결 등)
+- UI/UX 수정 작업
+
 ## 기타
 
-- Flutter 반응형 Web 구현
-- Notion을 통한 매일 일과표를 꾸준히 작성
+### Flutter Web 구현
+- GitPage
+- Firebase Hosting
 
 ## Server 및 DB
-- AWS EC2 ubuntu 20:04 server 핸들링 및 GCP-Server 핸들링 경험
+- AWS EC2 server 핸들링 및 GCP-Server 핸들링 경험
 - Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 서버 구현 경험
+- 포트 포워딩 사용
 - MariaDB(mysql) 사용 경험
 
 
