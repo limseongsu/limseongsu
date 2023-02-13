@@ -68,7 +68,7 @@
 - BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
 - MVVM 디자인패턴 적용으로 프로젝트 구성 
 -  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
-                                                                                                                                                           상태관리
+                                                                                                                                                           #### 상태관리
 - GetX
 - Bloc_Provider
                                                                                                    
@@ -95,10 +95,10 @@
 - Google Map 및 Kakao Local Api 를 통해 원하는 기타 서비스 찾기 기능 구현
 - 현재 내 위치를 주소로 변환해 표시하는 기능 구현
 - Animation 효과를 통해 image 자동 변환 기능 구현
-- 예약하기 기능 구현까진 완료 적용 X 
+- 예약하기 기능
 - Get_Storage를 통한 LocalDataBase
                                                                                                    
-상태관리
+#### 상태관리
 - GetX
 
 ## 아카이브코퍼이션 
@@ -118,7 +118,7 @@
 - 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결 등)
 - UI/UX 수정 작업
                                                                                                    
-상태관리
+#### 상태관리
 - GetX
 - Bloc_Provider
 
