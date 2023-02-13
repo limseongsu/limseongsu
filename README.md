@@ -50,20 +50,39 @@
 
 상태관리
 - provider
+                                                                                                   
+                                                                                                   
 ----------------------------------------------------------------------------------------------------------------------------
 ## 회사 프로젝트 
 - 팀단위 Github 를 통한 형상관리
 
 ## (주)쪼인
+- 협업 툴 : Notion, Slack, Adobe XD
+- 형상관리 : Github
+                                                                                                   
 ### 프로젝트
 
 #### 1). ZZOIN 
+### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
 - BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
 - MVVM 디자인패턴 적용으로 프로젝트 구성 
 -  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
+                                                                                                                                                           상태관리
+- GetX
+- Bloc_Provider
+                                                                                                   
+### 백엔드
 
+- Nodejs(Express) 를 통한 서버
+- MariaDB(mysql) DataBase 구조 설계
+- RestfulApi 생성 및 구현
+- NginX(웹서버) 사용 (로드밸런싱 적용)
+- 포트포워딩 구현
+- 서버 보안 작업(helmet)
+- 모니터링 기능 적용 (logger)
+                                                                                                   
 #### 2). LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
@@ -78,10 +97,14 @@
 - 현재 내 위치를 주소로 변환해 표시하는 기능 구현
 - Animation 효과를 통해 image 자동 변환 기능 구현
 - 예약하기 기능 구현까진 완료 적용 X 
-- Get_Storage를 통한 LocalDataBase 
+- Get_Storage를 통한 LocalDataBase
+                                                                                                   
+상태관리
+- GetX
 
-
-## 아카이브코퍼이션
+## 아카이브코퍼이션 
+- 협업 툴 : Slack, TimeTree, Figma
+- 형상관리 : Github
 
 ### 프로젝트
 
@@ -95,6 +118,10 @@
    2. 결제 예외 처리 기능 적용 
 - 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결 등)
 - UI/UX 수정 작업
+                                                                                                   
+상태관리
+- GetX
+- Bloc_Provider
 
 
 ## 기타
