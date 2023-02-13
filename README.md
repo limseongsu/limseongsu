@@ -63,7 +63,7 @@
 ### LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
-### 메인 개발 Andorid, ios 출시 및 유지보수 
+#### 메인 개발 Andorid, ios 출시 및 유지보수 
 - GetX를 통해 상태관리
 - Get Size 를 통해 디바이스별 사이즈 구현 
 - Firebase RealTimeBase 를 통해 라이브 1:1 채팅기능 구현
@@ -75,6 +75,7 @@
 - Animation 효과를 통해 image 자동 변환 기능 구현
 - 예약하기 기능 구현까진 완료 적용 X 
 - Get_Storage를 통한 LocalDataBase 
+
 
 ## 아카이브코퍼이션
 
@@ -98,6 +99,7 @@
 ## Server 및 DB
 - AWS EC2 server 핸들링 및 GCP-Server 핸들링 경험
 - Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 서버 구현 경험
+- NginX 웹서버를 사용
 - 포트 포워딩 사용
 - MariaDB(mysql) 사용 경험
 
