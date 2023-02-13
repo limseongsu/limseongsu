@@ -38,25 +38,23 @@
 </p>
 
 
-## 프로젝트
+## 개인 프로젝트
 ### SoloProject : 어 항
 # GooglePlayStore 출시
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
-- Location 관련 Permission 핸들링
-- 공공API를 사용하여 현재 위치로부터 가까운 낚시터 정보를 가져와 주는 어플
+- Location 및 GPS 기능을 통해 가까운 위치의 낚시터를 찾아주는 어플
+- 공공 API 를 사용하여 낚시터의 정보를 가져옴 
+- Permission Handler 를 통한 Permission 을 용이하게 관리
+- 즐겨찾기 기능과 LocalDataBase를 통하여 로그인 없이 즐겨찾기에 관한 데이터를 저장
+- 
 ----------------------------------------------------------------------------------------------------------------------------
 ## 회사 프로젝트 
 - 팀단위 Github 를 통한 형상관리
-
-## (주)ZZOIN
 ### ZZOIN 
 - BootPay를 통해 PG 통합 결제 시스템 구현
 - 로그인 시스템 구현 및 자동로그인 구현
 - Clean Architecture 구현
-- 플랫폼 별  로그인 기능 (Google, Kakao, Apple)  
-- BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
-- MVVM 디자인패턴 적용으로 프로젝트 구성 
--  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
+- 코드 리펙토링 작업
 
 ### LifeForYou (애견 장례서비스)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
@@ -67,44 +65,21 @@
 - Firebase RealTimeBase 를 통해 라이브 1:1 채팅기능 구현
 - 로그인과 자동 로그인 기능 구현 (kakao, google, apple)
 - 회원가입 구현 
-- Clean Architecture 구조를 통해 Source code 의 관리를 용이하게 프로젝트 구성
+- Clean Architecture 구조를 통해 Sorce code 의 관리를 용이하게 프로젝트 구성
 - Google Map 및 Kakao Local Api 를 통해 원하는 기타 서비스 찾기 기능 구현
 - 현재 내 위치를 주소로 변환해 표시하는 기능 구현
 - Animation 효과를 통해 image 자동 변환 기능 구현
-- 예약하기(Schedule) 기능 
+- 예약하기 기능 구현까진 완료 적용 X 
+- Get_Storage를 통한 LocalDataBase 
 
+## 기타
 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-##(주)아카이브코퍼레이션
-
-### VukaPro (미용사 관리 어플)
-- 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
-- FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 => Firebase Push Token을 통한 각 
-- Flutter In App WebView 에서 결제 관련 된 이슈 처리 (url_scheme를 통한 앱 launcher기능)
-  1. Android 에서 url_launcher library 를 사용하기 위한  Intent(native) 작업  
-  2. 결제 예외 처리 기능 적용 
-- 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결)
-- UI/UX 수정 작업
-- 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
-- FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 => Firebase Push Token을 통한 각 
-- Flutter In App WebView 에서 결제 관련 된 이슈 처리 (url_scheme를 통한 앱 launcher기능)
-   1.  Android 에서 url_launcher library 를 사용하기 위한  Intent(native) 작업  
-  2.  결제 예외 처리 기능 적용 
-- 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결)
-- UI/UX 수정 작업
-
-### 기타
-
-## Flutter Web
--  GitPage
--  FireBase Hosting
-
+- Flutter 반응형 Web 구현
+- Notion을 통한 매일 일과표를 꾸준히 작성
 
 ## Server 및 DB
-- AWS EC2 server 핸들링 및 GCP-Server 핸들링 경험
+- AWS EC2 ubuntu 20:04 server 핸들링 및 GCP-Server 핸들링 경험
 - Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 서버 구현 경험
 - MariaDB(mysql) 사용 경험
-- nginX 를 통한 웹서버 사용
 
 
