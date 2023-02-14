@@ -13,7 +13,7 @@
 - 2016년 졸업
 
 ### 세민직업학교
-- flutter를 Main으로 학습을 하였으며, 서버, 웹, DB의 기본기를 탄탄히 배웠습니다.
+- flutter를 Main으로 Mobile App 개발, Server, Web, DB의 기본기를 탄탄히 배웠습니다.
 - 2021 9.17졸업
   
 ## skills
