@@ -68,7 +68,8 @@
 - BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
 - MVVM 디자인패턴 적용으로 프로젝트 구성 
 -  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
-                                                                                                                                                           #### 상태관리
+                                                                                                                                                           
+### 상태관리
 - GetX
 - Bloc_Provider
                                                                                                    
@@ -98,9 +99,9 @@
 - 예약하기 기능
 - Get_Storage를 통한 LocalDataBase
                                                                                                    
-#### 상태관리
+### 상태관리
 - GetX
-
+----------------------------------------------------------------------------------------------------------------------------
 ## 아카이브코퍼이션 
 - 협업 툴 : Slack, TimeTree, Figma
 - 형상관리 : Github
