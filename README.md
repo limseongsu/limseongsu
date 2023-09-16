@@ -5,8 +5,7 @@
 * 이름 : 임성수
 * Email : tjdtn2323@gmail.com 
 * Github : https://github.com/limseongsu
-<img width="300" height="300" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://user-images.githubusercontent.com/79133729/129471674-f27a6474-3448-46d1-9764-b3f8fb65786e.png">
-<img width="300" height="300" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://github.com/limseongsu/limseongsu/assets/79133729/eac22410-ae60-4bf8-8b11-dc370729888b">
+<img width="300" height="350" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://github.com/limseongsu/limseongsu/assets/79133729/eac22410-ae60-4bf8-8b11-dc370729888b">
 
 ## 학력
 ### 강릉고등학교
