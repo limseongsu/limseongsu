@@ -61,7 +61,7 @@
                                                                                                    
 ### 프로젝트
 
-#### 1). ZZOIN 
+#### 1). ZZOIN (기여도 40%)
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
@@ -83,7 +83,7 @@
 - 서버 보안 작업(helmet)
 - 모니터링 기능 적용 (logger)
                                                                                                    
-#### 2). LifeForYou (애견 장례서비스)
+#### 2). <LifeForYou> 애견 장례서비스 (기여도 100%)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 #### 메인 개발 Andorid, ios 출시 및 유지보수 
@@ -108,7 +108,7 @@
 
 ### 프로젝트
 
-#### VukaPro
+#### VukaPro (기여도 30%)
 - 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
 - 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
 - FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 
@@ -122,6 +122,45 @@
 #### 상태관리
 - GetX
 - Bloc_Provider
+
+----------------------------------------------------------------------------------------------------------------------------
+## (주) 퍼블리시
+- 협업 툴 : Notion, Slack, Figma
+- 형상관리 : Github
+
+### 프로젝트
+
+#### 뉴스토마스 국내ver. (기여도 50%)
+- 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
+
+#### 프로젝트 수행 이력
+##### 1. 계정 관련 기능 
+- 각 kakao, google, facebook, apple, uuid 로그인 기능 및 Bio 로그인 기능  
+- Jwt 를 통해서 accessToken 및 refreshToken을 통해 앱의 보안성 향상 기능 
+- 비회원 (uuid)로그인 일 때 소셜로그인(sns)로 바꾸는 계정전환 기능 
+- SNS 로그인 다중 연결 기능 구현
+- 본인인증기능 
+- 자동로그인 기능 
+##### 2. 블록체인 지갑 기술 적용
+- Ethereum, Luniverse 기반 네트워크 관련된 지갑 기능 
+- Ethereum -> Test Server Sepolia로 테스트 코드 구현
+- App Client에서 mnemonic으로 PrivateKey(Bip32)를 추출하여 SignTransaction 기능
+- Estimated Gas (예상수수료) 기능 
+- 각 월렛 보내기 (transaction) 기능 
+- HD월렛 적용
+- 거래내역 기능
+##### 3. 다이나믹 링크 및 FCM 기능 개발 
+- firebase dynamic link 기능을 통한  shortLink로 deepLink 기능 개발
+
+##### 4. 프로젝트 고도화 작업
+- MVVM 구조로 프로젝트 구성 개선, theme class 정의,  공통 Widget Module 작업
+
+##### 5. 각 DataModel 의 싱글톤 구성
+- freezed Library 및 json_serializable 사용하여 싱글톤(factory) 를 사용하여 단일 인스턴스 생성
+
+                                                                                                   
+#### 상태관리
+- GetX
 
 
 ## 기타
