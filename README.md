@@ -1,4 +1,4 @@
-### 임성수 이력서
+### 임성수 경력기술서 
 
 ## 소개
 
@@ -7,15 +7,6 @@
 * Github : https://github.com/limseongsu
 <img width="300" height="350" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://github.com/limseongsu/limseongsu/assets/79133729/eac22410-ae60-4bf8-8b11-dc370729888b">
 
-## 학력
-### 강릉고등학교
-- 이과 
-- 2016년 졸업
-
-### 세민직업학교
-- flutter를 Main으로 Mobile App 개발, Server, Web, DB의 기본기를 탄탄히 배웠습니다.
-- 2021 9.17졸업
-  
 ## skills
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
