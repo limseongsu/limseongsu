@@ -37,7 +37,8 @@
   <img src="https://img.shields.io/badge/Postman-FFCA28?style=flat-square&logo=Git&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Slack-666666?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-666666?style=flat-square&logo=Git&logoColor="green"/>
-    <img src="https://img.shields.io/badge/AndroidStudio-02569B?style=flat-square&logo=Git&logoColor="white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-02569B?style=flat-square&logo=Git&logoColor="white"/>
+  <img src="https://img.shields.io/badge/VSCode-FFCA28?style=flat-square&logo=Firebase&logoColor=green"/>  
 </p>
 
 
