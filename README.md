@@ -34,8 +34,8 @@
 </p>
 
 
-## 개인 프로젝트
-### SoloProject : 어 항 (GooglePlayStore출시) 
+# 개인 프로젝트
+### ProjectName : 어 항 (GooglePlayStore출시) 
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - Location 및 GPS 기능을 통해 가까운 위치의 낚시터를 찾아주는 어플
 - 공공 API 를 사용하여 낚시터의 정보를 가져옴 
