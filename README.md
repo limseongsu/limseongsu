@@ -51,9 +51,9 @@
 - 협업 툴 : Notion, Slack, Adobe XD
 - 형상관리 : Github
                                                                                                    
-### 프로젝트
+## 프로젝트
 
-#### 1) ZZOIN (기여도 40%) : 출시
+### 1) ZZOIN (기여도 40%) : 출시
 #### https://play.google.com/store/apps/details?id=com.zzoin.zzoin
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
@@ -67,7 +67,6 @@
 - Bloc_Provider
                                                                                                    
 ### 백엔드
-
 - Nodejs(Express) 를 통한 서버
 - MariaDB(mysql) DataBase 구조 설계
 - RestfulApi 생성 및 구현
@@ -76,7 +75,7 @@
 - 서버 보안 작업(helmet)
 - 모니터링 기능 적용 (logger)
                                                                                                    
-#### 2) <LifeForYou> 애견 장례서비스 (기여도 100%) : 출시
+### 2) <LifeForYou> 애견 장례서비스 (기여도 100%) : 출시
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 #### 메인 개발 Andorid, ios 출시 및 유지보수 
@@ -100,9 +99,9 @@
 - 협업 툴 : Slack, TimeTree, Figma
 - 형상관리 : Github
 
-### 프로젝트
+## 프로젝트
 
-#### VukaPro (기여도 30%)
+### VukaPro (기여도 30%)
 - 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
 - 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
 - FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 
@@ -122,7 +121,7 @@
 - 협업 툴 : Notion, Slack, Figma
 - 형상관리 : Github
 
-### 프로젝트
+## 프로젝트
 
 ### 뉴스토마스 국내ver. (기여도 50%) : 출시 
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.publishinc.app.publishrenewal
