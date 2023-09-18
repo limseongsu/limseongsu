@@ -34,8 +34,7 @@
 
 
 ## 개인 프로젝트
-### SoloProject : 어 항
-### GooglePlayStore 출시
+### SoloProject : 어 항 (GooglePlayStore출시) 
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
 - Location 및 GPS 기능을 통해 가까운 위치의 낚시터를 찾아주는 어플
 - 공공 API 를 사용하여 낚시터의 정보를 가져옴 
@@ -53,7 +52,8 @@
                                                                                                    
 ### 프로젝트
 
-#### 1) ZZOIN (기여도 40%)
+#### 1) ZZOIN (기여도 40%) : 출시
+#### https://play.google.com/store/apps/details?id=com.zzoin.zzoin
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
@@ -75,7 +75,7 @@
 - 서버 보안 작업(helmet)
 - 모니터링 기능 적용 (logger)
                                                                                                    
-#### 2) <LifeForYou> 애견 장례서비스 (기여도 100%)
+#### 2) <LifeForYou> 애견 장례서비스 (기여도 100%) : 출시
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 #### 메인 개발 Andorid, ios 출시 및 유지보수 
@@ -122,7 +122,9 @@
 
 ### 프로젝트
 
-### 뉴스토마스 국내ver. (기여도 50%)
+### 뉴스토마스 국내ver. (기여도 50%) : 출시 
+#### GooglePlayStore : https://play.google.com/store/apps/details?id=com.publishinc.app.publishrenewal
+#### AppStore : https://apps.apple.com/kr/app/news-thomas/id6446507867
 - 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
 
 #### 프로젝트 수행 이력
