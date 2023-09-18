@@ -62,7 +62,7 @@
                                                                                                    
 ### 프로젝트
 
-#### 1). ZZOIN (기여도 40%)
+#### 1) ZZOIN (기여도 40%)
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
@@ -84,7 +84,7 @@
 - 서버 보안 작업(helmet)
 - 모니터링 기능 적용 (logger)
                                                                                                    
-#### 2). <LifeForYou> 애견 장례서비스 (기여도 100%)
+#### 2) <LifeForYou> 애견 장례서비스 (기여도 100%)
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 #### 메인 개발 Andorid, ios 출시 및 유지보수 
