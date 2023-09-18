@@ -54,7 +54,8 @@
 ## 프로젝트
 
 ### 1) ZZOIN (기여도 40%) : 출시
-#### https://play.google.com/store/apps/details?id=com.zzoin.zzoin
+#### GooglePlayStore : https://play.google.com/store/apps/details?id=com.zzoin.zzoin
+#### AppStore : https://apps.apple.com/kr/app/zzoin/id1593375204
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
 -  자동로그인 기능 구현 (LocalDB사용)
