@@ -1,5 +1,3 @@
-### 임성수 경력기술서 
-
 ## 소개
 
 * 이름 : 임성수
@@ -33,7 +31,9 @@
   <img src="https://img.shields.io/badge/VSCode-FFCA28?style=flat-square&logo=Firebase&logoColor=green"/>  
 </p>
 
+## 경력 및 프로젝트 경험
 
+------------------------------------------------------------------------------------------------------------------------------------
 # 개인 프로젝트
 ### ProjectName : 어 항 (GooglePlayStore출시) 
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
