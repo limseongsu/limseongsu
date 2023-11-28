@@ -32,7 +32,6 @@
 </p>
 
 ## 경력 및 프로젝트 경험
-
 # 개인 프로젝트
 ### ProjectName : 어 항 (GooglePlayStore출시) 
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
