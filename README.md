@@ -59,7 +59,7 @@
 #### AppStore : https://apps.apple.com/kr/app/zzoin/id1593375204
 ### 프론트엔드 
 - 플랫폼 별  로그인 기능 (Google, Kakao: CustomToken 사용,  Apple)  
--  자동로그인 기능 구현 (LocalDB사용)
+-  자동로그인 기능 구현
 - BootPay Library를 통한 PG사 통합 결제 시스템 기능 구현
 - MVVM 디자인패턴 적용으로 프로젝트 구성 
 -  Clean Architecture 패턴으로 변경 작업 -> Function 의 세부적인 기능을 useCase를 통하여 나누는 작업 및 Recycle 위젯 및 Function의 모듈화(캡슐화) 작업 
