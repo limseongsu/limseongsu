@@ -1,10 +1,10 @@
-## 소개
+![이력서사진](https://github.com/limseongsu/limseongsu/assets/79133729/5ec04908-dbdd-4a3a-9881-965e8fb918f1)## 소개
 
 * 이름 : 임성수
 * 생년월일 : 1997-03-26
 * Email : tjdtn2323@gmail.com 
 * Github : https://github.com/limseongsu
-<img width="300" height="350" alt="스크린샷 2021-08-15 오후 5 08 55" src="https://github.com/limseongsu/limseongsu/assets/79133729/eac22410-ae60-4bf8-8b11-dc370729888b">
+![이력서사진](https://github.com/limseongsu/limseongsu/assets/79133729/d58b3797-a1f0-4048-bc9b-caa3690c0eda)
 
 ## skills
 <p>
