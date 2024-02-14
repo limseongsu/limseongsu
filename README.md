@@ -177,8 +177,8 @@
 - Firebase Hosting
 
 ## Server 및 DB
-- AWS EC2 server 핸들링 및 GCP-Server 핸들링 경험
-- Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 서버 구현 경험
+- AWS EC2 server 및 GCP-Server 핸들링 
+- Nodejs(Express)를 Docker로 MVC패턴으로 구성하여 비지니스 로직 설계
 - NginX 웹서버를 사용
 - 포트 포워딩 사용
 - MariaDB(mysql) 사용 경험
