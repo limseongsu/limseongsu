@@ -78,7 +78,7 @@
 - 모니터링 기능 적용 (logger)
                                                                                                    
 ### 2) <LifeForYou> 애견 장례서비스 (기여도 100%) : 출시
-- 주요역할 :메인 개발 Andorid, ios 출시 및 유지보수 
+- 주요역할 : Android, Ios 출시 및 유지보수 
 #### GooglePlayStore : https://play.google.com/store/apps/details?id=com.official.lfu
 #### AppStore : https://apps.apple.com/kr/app/%EC%95%A0%EA%B2%AC%EC%9E%A5%EB%A1%80%EC%84%9C%EB%B9%84%EC%8A%A4/id1626433525
 - GetX를 통해 상태관리
@@ -106,13 +106,12 @@
 ### VukaPro (기여도 30%)
 - 주요역할 : 메인 기능 개발 및 크리티컬 이슈 유지 보수 담당
 - 전체 설정 페이지 작업 => CRUD 중 Update Delete기능의 전반적인 기능 구축
-- FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 전체 적용 
+- FCM 및 notification 기능 구현 (Android, Ios) 각 플랫폼 적용 
 - 알림기능 개발 및 방해금지 시간 설정 등 기능 구현  
 - Flutter In App WebView 에서 결제 관련 된 이슈 처리 (url_scheme를 통한 앱 launcher기능)
-   1. Android 에서 url_launcher library 를 사용하기 위한  Intent(native) 작업  
+   1. Android 에서 url_launcher library 를 사용하기 위한 Andorid Native작업  
    2. 결제 예외 처리 기능 적용 
 - 이 외 크리티컬 이슈 작업 (데이터 처리 중 network문제 시 생길 수 있는 문제 해결 등)
-- UI/UX 수정 작업
                                                                                                    
 #### 상태관리
 - GetX
@@ -152,7 +151,7 @@
 ##### 4. 프로젝트 고도화 작업
 - MVVM 구조로 프로젝트 구성 개선, theme class 정의,  공통 Widget Module 작업
 
-##### 5. 각 DataModel 의 싱글톤 구성
+##### 5. 각 DataModel 의 싱글톤 구성응
 - freezed Library 및 json_serializable 사용하여 싱글톤(factory) 를 사용하여 단일 인스턴스 생성
                                                                                          
 #### 상태관리
