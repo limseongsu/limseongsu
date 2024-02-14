@@ -1,4 +1,4 @@
-![이력서사진](https://github.com/limseongsu/limseongsu/assets/79133729/5ec04908-dbdd-4a3a-9881-965e8fb918f1)## 소개
+## 소개
 
 * 이름 : 임성수
 * 생년월일 : 1997-03-26
