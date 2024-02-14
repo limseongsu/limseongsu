@@ -4,7 +4,8 @@
 * 생년월일 : 1997-03-26
 * Email : tjdtn2323@gmail.com 
 * Github : https://github.com/limseongsu
-![이력서사진](https://github.com/limseongsu/limseongsu/assets/79133729/d58b3797-a1f0-4048-bc9b-caa3690c0eda)
+<img src = "![이력서사진](https://github.com/limseongsu/limseongsu/assets/79133729/d58b3797-a1f0-4048-bc9b-caa3690c0eda)" width="300" height="350">
+
 
 ## skills
 <p>
