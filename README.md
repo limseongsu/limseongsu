@@ -38,6 +38,23 @@
 
 # 경력 및 프로젝트 경험
 
+## Educator
+
+### ≪Flutter 모바일 앱 개발 과정≫ 주강사 : 오준석 강사님
+담당업무 : 보조 강사 업무
+
+#### 1) Flutter 교육과정 3개월동안 학생들 케어, 과제 업무
+- 일일 과제 할당 및 과제 체크
+- 블로그 및 노션 관리 도움
+- Github 를 통한 코드리뷰 및 QA 진행
+
+#### 2) 일일 특강 진행
+- 실무에서의 Flutter Project 특강
+- GetX 상태관리 Library 특강
+- Firebase 특강
+Firebase Setting, FirestoreFireabase, LiveChat기능 등
+
+
 ## 개인 프로젝트
 ### ProjectName : 어 항 (GooglePlayStore출시) 
 #### https://play.google.com/store/apps/details?id=com.lss.fishingspot
@@ -187,18 +204,4 @@
 - 포트 포워딩 사용
 - MariaDB(mysql) 사용 경험
 
-## Education
 
-### ≪Flutter 모바일 앱 개발 과정≫ 주강사 : 오준석 강사님
-담당업무 : 보조 강사 업무
-
-#### 1) Flutter 교육과정 3개월동안 학생들 케어, 과제 업무
-- 일일 과제 할당 및 과제 체크
-- 블로그 및 노션 관리 도움
-- Github 를 통한 코드리뷰 및 QA 진행
-
-#### 2) 일일 특강 진행
-- 실무에서의 Flutter Project 특강
-- GetX 상태관리 Library 특강
-- Firebase 특강
-Firebase Setting, FirestoreFireabase, LiveChat기능 등
