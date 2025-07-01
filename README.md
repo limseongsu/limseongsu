@@ -3,7 +3,6 @@
 * 이름 : 임성수
 * 생년월일 : 1997-03-26
 * Email : tjdtn2323@gmail.com 
-* Github : https://github.com/limseongsu
 
 
 ## skills
